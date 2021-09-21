@@ -1,0 +1,2 @@
+csv/simple-crlf.csv text eol=crlf
+csv/simple-lf.csv   text eol=lf
